@@ -66,9 +66,9 @@ Foram identificadas **três perguntas no histórico acessível**. Os resumos aba
 
 **Limite identificado:** a orientação de alternar tomadas a cada dois ou três segundos aparece sem marcador próprio; sua fonte específica é **não identificado**. As falas sobre efeitos da máscara fazem parte de um exemplo criativo, sem comprovação de eficácia de um produto específico identificada no notebook.
 
-![Pergunta 1, resposta e fonte citada](evidencias/pergunta-01-fonte.jpg)
+**Evidência preparada:** Pergunta 1, resposta e fonte citada — envio ao repositório pendente.
 
-[Ver pergunta](evidencias/pergunta-01.jpg) · [Ver estrutura da resposta](evidencias/pergunta-01-resposta.jpg)
+As capturas estão preparadas localmente e aguardam a permissão de upload da extensão.
 
 ### 2. Plataformas e ferramentas UGC
 
@@ -92,9 +92,9 @@ Foram identificadas **três perguntas no histórico acessível**. Os resumos aba
 
 **Limite identificado:** a resposta faz afirmações abrangentes sobre propriedade e ausência de custos adicionais de licenciamento. As citações demonstram a origem dessas afirmações, mas não comprovam sua aplicação a todos os contratos ou plataformas.
 
-![Pergunta 2, resposta e fonte citada](evidencias/pergunta-02-fonte.jpg)
+**Evidência preparada:** Pergunta 2, resposta e fonte citada — envio ao repositório pendente.
 
-[Ver pergunta](evidencias/pergunta-02.jpg)
+As capturas estão preparadas localmente e aguardam a permissão de upload da extensão.
 
 ### 3. Construção de um portfólio UGC
 
@@ -117,11 +117,11 @@ Foram identificadas **três perguntas no histórico acessível**. Os resumos aba
 
 **Limite identificado:** as sugestões de hospedar o portfólio no Canva ou Notion e algumas seções de apresentação, serviços e contato não possuem citação diretamente associada. A fonte específica desses itens é **não identificado**.
 
-![Pergunta 3, diretriz, resposta e fonte citada](evidencias/pergunta-03-fonte.jpg)
+**Evidência preparada:** Pergunta 3, diretriz, resposta e fonte citada — envio ao repositório pendente.
 
-[Ver pergunta](evidencias/pergunta-03.jpg)
+As capturas estão preparadas localmente e aguardam a permissão de upload da extensão.
 
-O histórico de conversa é indicado pela interface como **particular**. As capturas deste repositório permitem consultar exemplos das perguntas, respostas e fontes mesmo sem acesso ao histórico da autora. São recortes reais da interface; os resumos e as listas acima documentam as respostas completas consultadas.
+O histórico de conversa é indicado pela interface como **particular**. As capturas reais da interface foram preparadas para documentar perguntas, respostas e fontes. Seu envio ao repositório está pendente porque o Chrome bloqueou o acesso da extensão aos arquivos locais. Os resumos e as listas acima documentam as respostas completas consultadas.
 
 ## Materiais gerados
 
@@ -129,14 +129,14 @@ O Estúdio apresenta os seguintes materiais:
 
 | Material | Registro confirmado |
 | --- | --- |
-| **Marketing UGC Mapa Mental** | Mapa mental baseado em **12 fontes**, exportado com todos os ramos expandidos: [baixar PNG](materiais/mapa-mental.png). |
-| **Os Melhores Sites Para Trabalhar Como Criador UGC** | Resumo em vídeo com duração indicada de **1:05**, formato **Curto** e **1 fonte**: [baixar MP4](materiais/sites-criador-ugc.mp4). O nome dessa fonte não foi identificado na listagem. |
+| **Marketing UGC Mapa Mental** | Mapa mental baseado em **12 fontes**, exportado com todos os ramos expandidos: PNG preparado; envio ao repositório pendente. |
+| **Os Melhores Sites Para Trabalhar Como Criador UGC** | Resumo em vídeo com duração indicada de **1:05**, formato **Curto** e **1 fonte**: MP4 preparado; envio ao repositório pendente. O nome dessa fonte não foi identificado na listagem. |
 
 Também está presente, no chat, o roteiro de vídeo de máscara capilar descrito na primeira pergunta. Sua exportação como arquivo separado: **não identificado**.
 
 Apresentação de slides ou PDF já gerada: **não identificado**. O botão de criação de slides está disponível, mas não foi encontrada uma apresentação na lista de materiais. Outros arquivos exportados, relatórios, áudios, testes, cartões didáticos ou infográficos: **não identificado**.
 
-O repositório inclui o PNG do mapa mental, o vídeo MP4 e sete capturas JPG das consultas. Apenas materiais gerados e recortes de evidência foram anexados; os textos integrais das fontes de terceiros não foram republicados aqui.
+Foram preparados localmente o PNG do mapa mental, o vídeo MP4 e sete capturas JPG das consultas. O upload desses nove arquivos está pendente da ativação de “Permitir acesso a URLs de arquivo” na extensão ChatGPT do Chrome. Os textos integrais das fontes de terceiros não foram republicados aqui.
 
 ## Link do NotebookLM
 
@@ -153,6 +153,6 @@ A revisão também identificou limites: algumas recomendações não têm refer�
 
 **Repositório para entrega:** [biancafroes/notebooklm-especialista-ugc](https://github.com/biancafroes/notebooklm-especialista-ugc).
 
-O repositório está na conta **biancafroes**, com visibilidade **pública** e nome em minúsculas, sem acentos. As respostas acima indicam as fontes citadas, e os arquivos vinculados estão nas pastas `materiais/` e `evidencias/`.
+O repositório está na conta **biancafroes**, com visibilidade **pública** e nome em minúsculas, sem acentos. As respostas acima indicam as fontes citadas. As pastas `materiais/` e `evidencias/` estão preparadas localmente e ainda precisam ser enviadas ao GitHub.
 
-A revisão não identificou dados pessoais sensíveis nos trechos consultados ou nas evidências anexadas. A autorização de redistribuição integral de todas as fontes de terceiros é **não identificado**; por isso, este projeto documenta títulos, resumos e citações, sem anexar os originais.
+A revisão não identificou dados pessoais sensíveis nos trechos consultados ou nas evidências preparadas. A autorização de redistribuição integral de todas as fontes de terceiros é **não identificado**; por isso, este projeto documenta títulos, resumos e citações, sem anexar os originais.
